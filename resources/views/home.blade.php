@@ -43,13 +43,15 @@ About Section Start
             <div class="col-md-6 col-sm-6">
                 <div class="block wow fadeInLeft" data-wow-delay=".3s" data-wow-duration="500ms">
                     <h2>
-                    ABOUT ME
+                    Acerca de mi
                     </h2>
                     <p>
-                        Hello, I’m a UI/UX Designer &amp; Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries
+                    El gobernador Gustavo Valdés &amp; rida de intenso trabajo por Saladas, 
+dio por inaugurado el nuevo destacamento de la Unidad Especial de Seguridad Rural y Ecológica en Colonia Cabral,
+ construidos con recursos que provienen del Fondo de Desarrollo Rural.
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero.
+                    gobernador Gustavo Valdés llegó a Saladas, donde luego de ser recibido por el intendente local, Rodolfo Alterats, en la Municipalidad, se dirigieron hacia el Hospital Regional “María Auxiliadora”. En el lugar, se llevó adelante la 
                     </p>
                 </div>
                 
@@ -70,9 +72,9 @@ Portfolio Section Start
 <section id="works" class="works">
     <div class="container">
         <div class="section-heading">
-            <h1 class="title wow fadeInDown" data-wow-delay=".3s">Latest Works</h1>
+            <h1 class="title wow fadeInDown" data-wow-delay=".3s">Otras Actividades</h1>
             <p class="wow fadeInDown" data-wow-delay=".5s">
-                Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus.
+            El gobernador Gustavo Valdés encabezó un encuentro virtual con representantes de 24 países, miembros del Comité Intergubernamental para la Salvaguardia del Patrimonio Inmaterial de la UNESCO.  <br> Con el objetivo de fortalecer el sistema sanitario de Corrientes, el gobernador Gustavo Valdés inauguró la Unidad de Terapia Intensiva (UTI) del Hospital Escuela “General José F. de San Martín” de esta Capital, duplica
             </p>
         </div>
         <div class="row">
@@ -90,11 +92,11 @@ Portfolio Section Start
                     <figcaption>
                     <h4>
                     <a href="#">
-                        Dew Drop
+                        Galeria
                     </a>
                     </h4>
                     <p>
-                        Redesigne UI Concept
+                        imagenes
                     </p>
                     </figcaption>
                 </figure>
@@ -105,15 +107,15 @@ Portfolio Section Start
                         <img src="images/portfolio/item-2.jpg" class="img-fluid" alt="this is a title" >
                         <div class="overlay">
                             <div class="buttons">
-                                <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">Demo</a>
-                                <a target="_blank" href="single-portfolio.html">Details</a>
+                                <a rel="gallery" class="fancybox" href="images/portfolio/item-2.jpg">Varias</a>
+                                <a target="_blank" href="single-portfolio.html">Descripcion</a>
                             </div>
                         </div>
                     </div>
                     <figcaption>
                     <h4>
                     <a href="#">
-                        Bottle Mockup
+                        Nacional
                     </a>
                     </h4>
                     <p>
